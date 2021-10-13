@@ -5,7 +5,7 @@ All of this work was created by Colton Carls and should not be reused without pe
 
 CS214 ->
 Included are three projects, the description of each of these projects and what they do can be found by opening up the tar file and scrolling to the bottom. 
-Project topics inlcuded 
+Project topics include 
 -Multithreading
 -Server Communication (Created a server that gets,sets,and deletes keys)
 -A word-wrapping program
