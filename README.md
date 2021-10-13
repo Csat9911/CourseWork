@@ -11,5 +11,5 @@ Project topics include
 -A word-wrapping program
 
 CS211 ->
-Includes four of the projects that I consider important from that class. All the project descriptions are files labebled as hw#.pdf inside of the corresponding projects.
+Includes four of the projects that I consider important from that class. All the project descriptions are files labeled as hw#.pdf inside of the corresponding projects.
 -HW2 is the (Machine Learning Project)
